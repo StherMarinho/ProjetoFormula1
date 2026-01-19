@@ -1,4 +1,4 @@
-# 🏎️ Projeto F1 — Análise de Chances no Campeonato
+# 🏎️ Projeto Fórmula 1 — Análise de Chances no Campeonato de 2025
 
 Este projeto realiza uma análise do campeonato de Fórmula 1 a partir de dados de pontuação de corridas e sprints, avaliando quais pilotos ainda possuem chances matemáticas de conquistar o título e apresentando uma estimativa de probabilidade entre os cinco primeiros colocados.
 
